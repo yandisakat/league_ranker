@@ -19,7 +19,7 @@ Includes comprehensive test suite
 
 # Installation
 1. Clone the repository
-- git clone git@github.com:yandisakat/league_ranker.git
+- git clone (https://github.com/yandisakat/league_ranker.git)
 - cd league-ranker
 
 2. Create a virtual environment (optional but recommended):
